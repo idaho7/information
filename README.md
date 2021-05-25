@@ -3,7 +3,7 @@
 
 ## Trois points : 
 1. Est-ce que être vacciné va nous rentre nos libertées ?
-2. Certains vaccins on été suspendu par des états
+2. Certains vaccins on été suspendu par des états/
 3. On a pas de recul. Les études sur les vaccins sont toujours en cours. 
 
 ## 1. Etre vacciné va nous rentre nos libertées ? En l'état, il semblerait que non. 
@@ -38,17 +38,17 @@ Voir ce qu'est une AMM conditionnelle (7 min) : https://www.youtube.com/watch?v=
 Page 15 : "Afin de confirmer l’efficacité et la sécurité de COVID-19 [...] le rapport final de l’étude" <b>=> En Décembre 2022</b>
 
 <b>Johnson-Johnson :</b> https://www.ema.europa.eu/en/documents/product-information/covid-19-vaccine-janssen-epar-product-information_fr.pdf<br>
-Page 20 : "Afin de confirmer l’efficacité et la sécurité du vaccin COVID-19 [...] le rapport final de clinique randomisée, controlée contre placebo,en simple aveugle"  <b>=> En Décembre 2023</b>
+Page 20 : "Afin de confirmer l’efficacité et la sécurité du vaccin COVID-19 [...] le rapport final de clinique randomisée, controlée contre placebo,en simple aveugle"  <b>=> En Décembre 2023</b><br>
 
 <b>AstraZeneca :</b> https://www.ema.europa.eu/en/documents/product-information/vaxzevria-previously-covid-19-vaccine-astrazeneca-epar-product-information_fr.pdf<br>
 Page 16 : <br>
 -"En vue de confirmer la reproductibilité des procédés de fabrication de la substance active et du produit fini le titulaire de l’autorisation de mise sur le marché devrafournir des données de validation et de comparabilité supplémentaires, et instaurerdes tests plus approfondis." <b>=> En Décembre 2021</b> <br>
--"En vue de confirmer l'efficacité et la tolérance [...] doit soumettre les rapportsfinauxdes étudescliniques randomisées et contrôlées" <b>=> En Mai 2022</b>
-<br>
+-"En vue de confirmer l'efficacité et la tolérance [...] doit soumettre les rapportsfinauxdes étudescliniques randomisées et contrôlées" <b>=> En Mai 2022</b><br>
+
 <b>Pfizer :</b> https://www.ema.europa.eu/en/documents/product-information/comirnaty-epar-product-information_fr.pdf<br>
-Page 20 : "En vue de confirmer l’efficacité et la sécurité [...] devra soumettre le rapport final d’étude clinique pour l’étude randomisée, contrôlée contre placebo" <b>=> En Décembre 2023</b>
-<br>
-Pour aller plus loin : <br>
+Page 20 : "En vue de confirmer l’efficacité et la sécurité [...] devra soumettre le rapport final d’étude clinique pour l’étude randomisée, contrôlée contre placebo" <b>=> En Décembre 2023</b><br><br>
+
+<b>Pour aller plus loin :</b> <br>
 Sur le Pfizer : https://www.youtube.com/watch?v=OjjEU-wjF7s (8 min) : <br>
 Basé sur le documents de l'Agence Européene du médicament suivant : https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf
 
