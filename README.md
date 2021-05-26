@@ -43,15 +43,15 @@ Page 20 : "Afin de confirmer l’efficacité et la sécurité du vaccin COVID-19
 
 <b>AstraZeneca :</b> https://www.ema.europa.eu/en/documents/product-information/vaxzevria-previously-covid-19-vaccine-astrazeneca-epar-product-information_fr.pdf<br>
 Page 16 : <br>
--"En vue de confirmer la reproductibilité des procédés de fabrication de la substance active et du produit fini le titulaire de l’autorisation de mise sur le marché devrafournir des données de validation et de comparabilité supplémentaires, et instaurerdes tests plus approfondis." <b>=> En Décembre 2021</b> <br>
--"En vue de confirmer l'efficacité et la tolérance [...] doit soumettre les rapportsfinauxdes étudescliniques randomisées et contrôlées" <b>=> En Mai 2022</b><br>
+-"En vue de confirmer la reproductibilité des procédés de fabrication de la substance active et du produit fini le titulaire de l’autorisation de mise sur le marché devra fournir des données de validation et de comparabilité supplémentaires, et instaurer des tests plus approfondis." <b>=> En Décembre 2021</b> <br>
+-"En vue de confirmer l'efficacité et la tolérance [...] doit soumettre les rapports finaux des études cliniques randomisées et contrôlées" <b>=> En Mai 2022</b><br>
 
 <b>Pfizer :</b> https://www.ema.europa.eu/en/documents/product-information/comirnaty-epar-product-information_fr.pdf<br>
 Page 20 : "En vue de confirmer l’efficacité et la sécurité [...] devra soumettre le rapport final d’étude clinique pour l’étude randomisée, contrôlée contre placebo" <b>=> En Décembre 2023</b><br><br>
 
 <b>Pour aller plus loin :</b> <br>
 Sur le Pfizer : https://www.youtube.com/watch?v=OjjEU-wjF7s (8 min) : <br>
-Basé sur le documents de l'Agence Européene du médicament suivant : https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf
+Basé sur le document de l'Agence Européene du médicament suivant : https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf
 
 Questions sur la fertilité (8 min) : https://www.youtube.com/watch?v=pm1bSgMJfXw <br>
 Basé sur les documents de l'Agence Européene du médicament mentionnés précédement par marques <br>
