@@ -18,7 +18,7 @@ Voir la decision du conseil d'état suivante : https://www.conseil-etat.fr/fr/ar
 - "l'atteinte à la liberté individuelle résultant des mesures de couvre-feu et de confinement ne peut, en l'état, au regard des objectifs poursuivis, être regardée comme disproportionnée, en tant qu'elles s'appliquent aux personnes vaccinées"
 <br>
 <b>Pour aller plus loin : </b><br>
-- Interview de l'avocate Me Clarisse Sand qui as déposée la requête ( 17 min ) : https://www.youtube.com/watch?v=_q2qqw_ScPk
+- Interview de l'avocate Me Clarisse Sand qui a déposée la requête ( 17 min ) : https://www.youtube.com/watch?v=_q2qqw_ScPk
 
 ## 2. Certains vaccins on été suspendu par des états, c'est à savoir. 
 
