@@ -33,7 +33,7 @@ Voir la decision du conseil d'état suivante : https://www.conseil-etat.fr/fr/ar
 Voir ce qu'est une AMM conditionnelle (7 min) : https://www.youtube.com/watch?v=_Z6K3hr42Ks <br>
 Lien ANSM : https://ansm.sante.fr/dossiers-thematiques/covid-19-vaccins/covid-19-vaccins-autorises <br>
 
-- Informations indiquées dans les "products informations" de l'Agence Européene du Médicament (EMA): 
+- Informations indiquées dans les "products informations" de l'Agence Européene du Médicament (EMA) : 
 
 <b>_Moderna :_</b> https://www.ema.europa.eu/en/documents/product-information/covid-19-vaccine-moderna-epar-product-information_fr.pdf<br>
 Page 15 : "Afin de confirmer l’efficacité et la sécurité de COVID-19 [...] le rapport final de l’étude" <b>=> En Décembre 2022</b>
