@@ -31,7 +31,7 @@ Voir la decision du conseil d'état suivante : https://www.conseil-etat.fr/fr/ar
 
 - Actuellement les vaccins sont soumis à une Autorisation de Mise sur le Marché (AMM) <b>conditionnelle</b>.  <br>
 Voir ce qu'est une AMM conditionnelle (7 min) : https://www.youtube.com/watch?v=_Z6K3hr42Ks <br>
-Lien ansm : https://ansm.sante.fr/dossiers-thematiques/covid-19-vaccins/covid-19-vaccins-autorises <br>
+Lien ANSM : https://ansm.sante.fr/dossiers-thematiques/covid-19-vaccins/covid-19-vaccins-autorises <br>
 
 - Informations indiquées dans les "products informations" de l'Agence Européene du Médicament (EMA): 
 
