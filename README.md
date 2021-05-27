@@ -57,5 +57,5 @@ Questions sur la fertilité (8 min) : https://www.youtube.com/watch?v=pm1bSgMJfX
 Basé sur les documents de l'Agence Européene du médicament mentionnés précédement par marques <br>
 
 Effets secondaires : <br>
-Fiche synthèse ANSM : https://ansm.sante.fr/uploads/2021/04/09/20210408-vaccins-covid-19-fiche-de-synthese-vf.pdf
+Fiche synthèse ANSM : https://ansm.sante.fr/uploads/2021/04/09/20210408-vaccins-covid-19-fiche-de-synthese-vf.pdf <br>
 https://ansm.sante.fr/actualites/point-de-situation-sur-la-surveillance-des-vaccins-contre-la-covid-19-periode-du-02-04-2021-au-08-04-2021
