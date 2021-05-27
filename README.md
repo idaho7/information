@@ -2,9 +2,9 @@
 
 
 ## Trois points : 
-1. Est-ce que être vacciné va nous rentre nos libertées ?
-2. Certains vaccins on été suspendu par des états/
-3. On a pas de recul. Les études sur les vaccins sont toujours en cours. 
+1. Est-ce que être vacciné va nous permettre de retrouver nos libertées ?
+2. Certains vaccins ont été suspendus par des Etats.
+3. Les études sur les vaccins sont toujours en cours, nous n'avons pas de recul. 
 
 ## 1. Etre vacciné va nous rentre nos libertées ? En l'état, il semblerait que non. 
 
