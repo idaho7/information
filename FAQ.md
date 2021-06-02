@@ -3,11 +3,11 @@
 Et bien ce n'est pas classique du tout (mais ca arrive effectivement), et il y a un cadre légal qui a été donné pour ca. C'est l'<b>Autorisation de Mise sous le Marché Conditionnel (AMM Conditionnelle)</b>. Pour les vaccins, c'est très rare parce que normalement très long à fabriquer pour en faire un nouveau sur un nouveau virus. <br><br>
 
 
-Une AMM, c'est : 
+__Une AMM, c'est :__ <br>
 "Pour être commercialisée, une spécialité pharmaceutique doit obtenir préalablement une autorisation de mise sur le marché (AMM). L’AMM est demandée par un laboratoire pharmaceutique, pour sa spécialité, sur la base d’un dossier comportant des données de qualité pharmaceutique, d’efficacité et de sécurité, dans l’indication revendiquée." <br>
 Voir : https://solidarites-sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/autorisation-de-mise-sur-le-marche/article/autorisation-de-mise-sur-le-marche-amm
 
-Quand ces conditions précédente ne sont pas rempli, le Labo peut tout de même obtenir une AMM conditionnelle dans un certain cadre, ici pour résumer une pandémie. <br>
+Quand ces conditions précédente ne sont pas rempli, le Labo peut tout de même obtenir une __AMM conditionnelle__ dans un certain cadre, ici pour résumer une pandémie. <br>
 Voir la réglementation européene : https://ec.europa.eu/health/sites/default/files/files/eudralex/vol-1/reg_2006_507/reg_2006_507_fr.pdf
 Le cadre conditionnelle est le suivant : 
 - besoins médicaux non satisfait (paragraphe 2 et 5) => Par exemple, pas de traitement
