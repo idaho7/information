@@ -39,20 +39,34 @@ Dont certaines substances sont toujours en cours d'études et les rapports sont 
   - __Vaccin à Adénovirus modifié génétiquement, AztraZeneca, Jansen__ <br>
      - _Par exemple pour le AztraZeneca, Annexe 1, page 32 de la fiche produit, ce n'est pas un virus inactivé qui est utilisé mais:_ <br>
 Fiche produit : https://www.ema.europa.eu/en/documents/product-information/vaxzevria-previously-covid-19-vaccine-astrazeneca-epar-product-information_fr.pdf <br><br>
-"Une dose (0,5ml) contient:<br>Adénovirus de chimpanzé codant pour la glycoprotéine Spike du SARS-CoV-2 (ChAdOx1-S)*, non inférieur à 2,5 x 108unités infectieuses <br>* Produit sur des cellules rénales embryonnaires humaines (human embryonic kidney, HEK)293 génétiquement modifiées et par la technologie de l’ADN recombinant.<br>Ce produit contient des organismes génétiquement modifiés (OGM)."
+"Une dose (0,5ml) contient:<br>Adénovirus de chimpanzé codant pour la glycoprotéine Spike du SARS-CoV-2 (ChAdOx1-S)*, non inférieur à 2,5 x 108unités infectieuses <br>* Produit sur des cellules rénales embryonnaires humaines (human embryonic kidney, HEK)293 génétiquement modifiées et par la technologie de l’ADN recombinant.<br>Ce produit contient des organismes génétiquement modifiés (OGM)."<br>
 Ce qui n'a rien n'a là aussi rien à voir avec un virus inactivé utilisé habituellement dans celui de la grippe.
 
 ## Est-ce que la pilule ca n'est pas pire ? 
 
 Bonne question, en tout cas, factuellement, sur la pilule on a des années de reculs sur les effets indésirables, même s'ils sont lents à déterminer. 
 <br>Les nouveaux vaccins il y a seulement quelques mois de recul. <br> Sachant : <br>
-- que la responsabilité des effets secondaires (effets collatéraux, dédommagement etc.) risque d'être attribué aux états et non à l'industrie, [comme pour H1N1](https://www.liberation.fr/france/2020/11/24/effets-secondaires-du-vaccin-h1n1-les-indemnisations-trainent_1806453/). L'état aura en toute logique aucun interet à les chercher sachant que c'est lui qui va payer, il y aura là un conflit d'intéret. 
+- que la responsabilité des effets secondaires (effets collatéraux, dédommagement etc.) risque d'être attribué aux états et non à l'industrie, [comme pour H1N1](https://www.liberation.fr/france/2020/11/24/effets-secondaires-du-vaccin-h1n1-les-indemnisations-trainent_1806453/). L'état aura en toute logique aucun interet à les chercher sachant que c'est lui qui va payer, il y aura là un conflit d'intéret direct. 
 Voir l'interview de cette députée européene (2020, 12min) : https://www.youtube.com/watch?v=FzYyoP6xBvU <br>
-- que la transparance sur les contrats signés avec les industriels n'est pas totale. 
+- que la transparance sur les contrats signés avec les industriels n'est pas totale. <br>
 Cette interview (même députée) est plus récente mais dure 1h : https://www.youtube.com/watch?v=P_rwtxzC13s <br>
 - que les Labo ont tous déjà été condamnés à des amandes de plusieurs millions : 
    - https://www.lemonde.fr/economie/article/2009/09/02/une-amende-de-2-3-milliards-de-dollars-pour-pfizer_1235011_3234.html 
    - https://violationtracker.goodjobsfirst.org/prog.php?agency_sum=FDA
 
 Pour ce qui est de la fertilité, il est indiqué : 
+- Pfizer, dans le rapport d'évaluation public (public assessment report) ici : https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf il est indiqué que dans l'étude faite sur les rats (Voir page 55 et 56): <br>
+  - "Les études de distribution pharmacocinétique chez le rat ont démontré qu'une proportion relativement importante - seconde par rapport aux niveaux au site d'injection - de la dose totale se distribue dans le foie (jusqu'à 18%, et bien plus que les niveaux observés dans la rate [<1,1%], les glandes surrénales [<0,1%] et les ovaires [<0,1%])."
+  - "l'étude combinée de fertilité et de toxicité pour le développement a montré que les réponses en anticorps neutralisant le SRAS-CoV-2 étaient présentes chez les animaux maternels depuis avant l'accouplement jusqu'à la fin de l'étude, au jour 21 postnatal, ainsi que chez les fœtus et la progéniture. Il n'y a pas eu d'effets liés au vaccin sur la fertilité des femelles, la gestation ou le développement embryo-foetal ou de la progéniture jusqu'au sevrage. Le CHMP a noté qu'<b>aucune donnée n'est disponible sur le transfert placentaire du vaccin ou son excrétion dans le lait.</b>"
+  - "Il n'y a pas eu d'effets sur le cycle œstral chez les mères, mais on a constaté <b>une augmentation d'environ 2 fois des pertes de préimplantation (~9,77 % contre 4,1 % chez les témoins)</b>, mais ces effets se situent dans les limites des données historiques de contrôle (5,1 % à 11,5 %) ; ces résultats ne soulèvent donc aucune préoccupation particulière." (tempéré avec la dernière phrase)
 
+- Moderna : https://www.ema.europa.eu/en/documents/assessment-report/covid-19-vaccine-moderna-epar-public-assessment-report_en.pdf (page 
+  - "<b>L'indice global de gestation était numériquement plus faible chez les rats femelles vaccinés au mRNA-1273 (84,1 %) que chez les animaux témoins (93,2 %)</b>, mais il reste dans la fourchette de contrôle historique de l'installation d'essai (la fourchette basse étant de 75 %)." (tempéré avec la dernière phrase)
+
+- Aztrazeneca : https://www.ema.europa.eu/en/documents/assessment-report/vaxzevria-previously-covid-19-vaccine-astrazeneca-epar-public-assessment-report_en.pdf (page 48)
+  - L'étude 490838 "[...] pas indiqué l'apparition d'effets indésirables en matière de toxicité pour la reproduction. <b>La principale étude DART chez la souris est en cours (étude 490843)</b>. Le rapport final de l'étude devrait être fourni (LEG)." 
+
+- Janssen : https://www.ema.europa.eu/en/documents/assessment-report/covid-19-vaccine-janssen-epar-public-assessment-report_en.pdf (page 52, 53)
+  - Etude TOX14389 "Il n'y a pas eu d'effets indésirables du traitement sur la survie, les observations cliniques, le poids corporel, la variation du poids corporel, la consommation alimentaire, les performances de reproduction, la fertilité, les examens ovariens et utérins, la parturition ou les évaluations macroscopiques chez les femelles parentales."
+
+_Note : Tout a été Traduit avec www.DeepL.com/Translator (version gratuite)_
