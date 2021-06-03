@@ -1,6 +1,6 @@
 ## Est-ce que c'est quelque chose de tout à fait classique (la mise à disposition rapidement de nouveau vaccin, médicament etc.) ?
 
-Et bien ce n'est pas "classique" (mais ça arrive effectivement), et il y a un cadre légal qui a été donné pour ça. C'est l'<b>Autorisation de Mise sous le Marché Conditionnel (AMM Conditionnelle)</b>. Pour les vaccins, c'est très rare parce que normalement très long à fabriquer pour en faire un nouveau sur un nouveau virus. <br><br>
+Et bien ce n'est pas "classique" (mais ça arrive effectivement), et il y a un cadre légal qui a été donné pour ça. C'est l'<b>Autorisation de Mise sous le Marché Conditionnel (AMM Conditionnelle)</b>. Pour les vaccins, c'est très rare parce que normalement ils sont très long à fabriquer pour un nouveau virus. <br><br>
 
 
 __Une AMM, c'est :__ <br>
