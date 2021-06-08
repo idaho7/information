@@ -1,23 +1,26 @@
 ## Est-ce que c'est quelque chose de tout à fait classique (la mise à disposition rapidement de nouveau vaccin, médicament etc.) ?
 
-Et bien ce n'est pas "classique" (mais ça arrive effectivement), et il y a un cadre légal qui a été donné pour ça. C'est l'<b>Autorisation de Mise sous le Marché Conditionnel (AMM Conditionnelle)</b>. Pour les vaccins, c'est très rare parce que normalement ils sont très long à fabriquer pour un nouveau virus. <br><br>
+Et bien ce n'est pas "classique" (mais ça arrive effectivement), et il y a un cadre légal qui a été donné pour ça. C'est l'<b>Autorisation de Mise sous le Marché Conditionnelle (AMM Conditionnelle)</b>. Pour les vaccins, c'est très rare parce que normalement ils sont très long à fabriquer pour un nouveau virus. <br><br>
 
 
 __Une AMM, c'est :__ <br>
 "Pour être commercialisée, une spécialité pharmaceutique doit obtenir préalablement une autorisation de mise sur le marché (AMM). L’AMM est demandée par un laboratoire pharmaceutique, pour sa spécialité, sur la base d’un dossier comportant des données de qualité pharmaceutique, d’efficacité et de sécurité, dans l’indication revendiquée." <br>
 Voir : https://solidarites-sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/autorisation-de-mise-sur-le-marche/article/autorisation-de-mise-sur-le-marche-amm
 
-Quand ces conditions précédentes ne sont pas remplies, le Labo peut tout de même obtenir une __AMM conditionnelle__ dans un certain cadre, ici pour résumer une pandémie. <br>
+Quand ces conditions précédentes ne sont pas remplies, le Labo peut tout de même obtenir une __AMM conditionnelle__ dans un certain cadre, comme une pandémie. <br>
 Voir la réglementation européene : https://ec.europa.eu/health/sites/default/files/files/eudralex/vol-1/reg_2006_507/reg_2006_507_fr.pdf
 Le cadre conditionnel est le suivant : 
 - besoins médicaux non satisfait (paragraphe 2 et 5) => Par exemple, pas de traitement
-- des données moins complètes (paragraphe 3) => Moins de données qui attestent de l'efficacité et la sureté du médicament qu'une AMM standard par exemple
+- des données moins complètes (paragraphe 3) => Par exemple, moins de données qui attestent de l'efficacité et la sureté du médicament qu'une AMM standard
 - des obligations spécifiques (Réglement, Article premier) => Par exemple, fournir des études plus complètes plus tard
 <br>
 
 __A noter :__ <br>
-Les vaccins pour la grippe H1N1 ont était fait rapidement aussi (à creuser). Cependant le procédé de fabrication est le même que celui de la grippe (donc connu voir ci-dessous).<br>Sachant tout de même qu'après le vaccin H1N1 il y a eu des cas de [Narcolepsie](https://fr.wikipedia.org/wiki/Narcolepsie) 9 fois plus élevées chez les 4-19 vaccinées que chez les non vaccinés. <br>Voir (Source OMS): https://www.who.int/vaccine_safety/committee/topics/influenza/pandemic/h1n1_safety_assessing/narcolepsy_statement/en/<br>
-"During 2009-2010 they found that the risk of narcolepsy among people aged 4-19 years old who had received pandemic influenza vaccine was nine times higher than that among those who had not been vaccinated."
+Les vaccins pour la grippe H1N1 ont aussi était [élaborés en urgence](https://www.rfi.fr/fr/podcasts/reportage-international/20201219-su%C3%A8de-le-pays-paie-encore-le-prix-de-la-narcolepsie) aussi. Cependant le procédé de fabrication est le même que celui de la grippe (donc connu voir ci-dessous).
+
+<br>Sachant qu'après le vaccin H1N1 il y a eu des cas de [Narcolepsie](https://fr.wikipedia.org/wiki/Narcolepsie) 9 fois plus élevées chez les 4-19 ans vaccinées que chez les non vaccinés. <br>Voir (Source OMS): https://www.who.int/vaccine_safety/committee/topics/influenza/pandemic/h1n1_safety_assessing/narcolepsy_statement/en/<br>
+"During 2009-2010 they found that the risk of narcolepsy among people aged 4-19 years old who had received pandemic influenza vaccine was nine times higher than that among those who had not been vaccinated." <br>
+Ainsi qu'en complément : https://www.rfi.fr/fr/podcasts/reportage-international/20201219-su%C3%A8de-le-pays-paie-encore-le-prix-de-la-narcolepsie?fbclid=IwAR2XfJKQYvoHjlVU8jA2Ev86yho43VwD7UEc2UWkalqoQnoHCfzFKHx6_9g
 
 
 ## Vaccin contre la grippe, est-ce que les nouveaux s'en inspirent ? 
@@ -30,7 +33,7 @@ https://fr.wikipedia.org/wiki/Vaccin_contre_la_grippe_saisonni%C3%A8re
 Cf. par exemple cet article https://www.midilibre.fr/2021/05/06/covid-19-on-vous-dit-tout-sur-le-vaccin-chinois-coronavac-en-cours-dhomologation-9529844.php <br>
 "Contrairement aux autres produits, le CoronaVac est basé sur une technique traditionnelle similaire à celle contre la grippe. Ainsi, il ne contient pas le virus vivant mais un virus inactivé." <br>
 
-- Pour les nouveaux vaccins qui nous sont proposés, il y a deux substances nouvelles utilisées qui n'ont jamais été utilisées à grande échelle. 
+- Pour les nouveaux vaccins qui nous sont proposés (en France), il y a deux substances nouvelles incorporées qui n'ont jamais été utilisées à grande échelle. 
   - __Vaccin à ARN messager (ARNm) , Pfizer, Moderna__
     - _Par exemple pour le Pfizer, Page 30 de la fiche produit, ce n'est pas un virus inactivé qui est utilisé mais:_<br>
 Fiche produit : https://www.ema.europa.eu/en/documents/product-information/comirnaty-epar-product-information_fr.pdf <br><br>
@@ -45,22 +48,24 @@ Ce qui n'a rien n'a là aussi rien à voir avec un virus inactivé utilisé habi
 ## Est-ce que la pilule ca n'est pas pire ? 
 
 Bonne question, en tout cas, factuellement, sur la pilule on a des années de reculs sur les effets indésirables, même s'ils sont lents à déterminer. 
-<br>Les nouveaux vaccins il y a seulement quelques mois de recul. <br> Sachant : <br>
-- que la responsabilité des effets secondaires (effets collatéraux, dédommagement etc.) risque d'être attribué aux états et non à l'industrie, [comme pour H1N1](https://www.liberation.fr/france/2020/11/24/effets-secondaires-du-vaccin-h1n1-les-indemnisations-trainent_1806453/). L'état aura en toute logique aucun interet à les chercher sachant que c'est lui qui va payer, il y aura là un conflit d'intéret direct. 
+
+### Effet secondaires ? 
+<br>Les nouveaux vaccins il y a seulement quelques mois de recul. <br> Sachant que : <br>
+- la responsabilité des effets secondaires (effets collatéraux, dédommagement etc.) risque d'être attribué aux états et non à l'industrie, [comme pour H1N1](https://www.liberation.fr/france/2020/11/24/effets-secondaires-du-vaccin-h1n1-les-indemnisations-trainent_1806453/). L'état aura en toute logique aucun interet à les chercher sachant que c'est lui qui va payer, il y aura là un conflit d'intéret direct. 
 Voir l'interview de cette députée européene (2020, 12min) : https://www.youtube.com/watch?v=FzYyoP6xBvU <br>
-- que la transparance sur les contrats signés avec les industriels n'est pas totale. <br>
+- la transparance sur les contrats signés avec les industriels n'est pas totale. <br>
 Cette interview (même députée) est plus récente mais dure 1h : https://www.youtube.com/watch?v=P_rwtxzC13s <br>
-- que les Labo ont tous déjà été condamnés à des amandes de plusieurs millions : 
+- les Labo ont tous déjà été condamnés à des amendes de plusieurs millions : 
    - https://www.lemonde.fr/economie/article/2009/09/02/une-amende-de-2-3-milliards-de-dollars-pour-pfizer_1235011_3234.html 
    - https://violationtracker.goodjobsfirst.org/prog.php?agency_sum=FDA
 
-Pour ce qui est de la fertilité, il est indiqué : 
+### Fertilité ? il est indiqué : 
 - Pfizer, dans le rapport d'évaluation public (public assessment report) ici : https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf il est indiqué que dans l'étude faite sur les rats (Voir page 55 et 56): <br>
   - "Les études de distribution pharmacocinétique chez le rat ont démontré qu'une proportion relativement importante - seconde par rapport aux niveaux au site d'injection - de la dose totale se distribue dans le foie (jusqu'à 18%, et bien plus que les niveaux observés dans la rate [<1,1%], les glandes surrénales [<0,1%] et les ovaires [<0,1%])."
   - "l'étude combinée de fertilité et de toxicité pour le développement a montré que les réponses en anticorps neutralisant le SRAS-CoV-2 étaient présentes chez les animaux maternels depuis avant l'accouplement jusqu'à la fin de l'étude, au jour 21 postnatal, ainsi que chez les fœtus et la progéniture. Il n'y a pas eu d'effets liés au vaccin sur la fertilité des femelles, la gestation ou le développement embryo-foetal ou de la progéniture jusqu'au sevrage. Le CHMP a noté qu'<b>aucune donnée n'est disponible sur le transfert placentaire du vaccin ou son excrétion dans le lait.</b>"
-  - "Il n'y a pas eu d'effets sur le cycle œstral chez les mères, mais on a constaté <b>une augmentation d'environ 2 fois des pertes de préimplantation (~9,77 % contre 4,1 % chez les témoins)</b>, mais ces effets se situent dans les limites des données historiques de contrôle (5,1 % à 11,5 %) ; ces résultats ne soulèvent donc aucune préoccupation particulière." (tempéré avec la dernière phrase)
+  - "Il n'y a pas eu d'effets sur le cycle œstral chez les mères, mais on a constaté <b>une augmentation d'environ 2 fois des pertes de préimplantation (~9,77 % contre 4,1 % chez les témoins)</b>, mais ces effets se situent dans les limites des données historiques de contrôle (5,1 % à 11,5 %) ; ces résultats ne soulèvent donc aucune préoccupation particulière." 
 
-- Moderna : https://www.ema.europa.eu/en/documents/assessment-report/covid-19-vaccine-moderna-epar-public-assessment-report_en.pdf (page 
+- Moderna : https://www.ema.europa.eu/en/documents/assessment-report/covid-19-vaccine-moderna-epar-public-assessment-report_en.pdf (page XXX)
   - "<b>L'indice global de gestation était numériquement plus faible chez les rats femelles vaccinés au mRNA-1273 (84,1 %) que chez les animaux témoins (93,2 %)</b>, mais il reste dans la fourchette de contrôle historique de l'installation d'essai (la fourchette basse étant de 75 %)." (tempéré avec la dernière phrase)
 
 - Aztrazeneca : https://www.ema.europa.eu/en/documents/assessment-report/vaxzevria-previously-covid-19-vaccine-astrazeneca-epar-public-assessment-report_en.pdf (page 48)
