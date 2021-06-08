@@ -16,7 +16,7 @@ Le cadre conditionnel est le suivant :
 <br>
 
 __A noter :__ <br>
-Les vaccins pour la grippe H1N1 ont aussi était [élaborés en urgence](https://www.rfi.fr/fr/podcasts/reportage-international/20201219-su%C3%A8de-le-pays-paie-encore-le-prix-de-la-narcolepsie). Cependant le procédé de fabrication est le même que celui de la grippe (donc connu voir ci-dessous).
+Les vaccins pour la grippe H1N1 ont aussi était [élaborés en urgence](https://www.rfi.fr/fr/podcasts/reportage-international/20201219-su%C3%A8de-le-pays-paie-encore-le-prix-de-la-narcolepsie). Cependant le procédé de fabrication est le même que celui de la grippe (donc connu voir la question suivante).
 
 <br>Sachant qu'après le vaccin H1N1 il y a eu des cas de [Narcolepsie](https://fr.wikipedia.org/wiki/Narcolepsie) 9 fois plus élevées chez les 4-19 ans vaccinées que chez les non vaccinés. <br>Voir (Source OMS): https://www.who.int/vaccine_safety/committee/topics/influenza/pandemic/h1n1_safety_assessing/narcolepsy_statement/en/<br>
 "During 2009-2010 they found that the risk of narcolepsy among people aged 4-19 years old who had received pandemic influenza vaccine was nine times higher than that among those who had not been vaccinated." <br>
