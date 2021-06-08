@@ -20,8 +20,7 @@ Les vaccins pour la grippe H1N1 ont aussi était [élaborés en urgence](https:/
 
 <br>Sachant qu'après le vaccin H1N1 il y a eu des cas de [Narcolepsie](https://fr.wikipedia.org/wiki/Narcolepsie) 9 fois plus élevées chez les 4-19 ans vaccinées que chez les non vaccinés. <br>Voir (Source OMS): https://www.who.int/vaccine_safety/committee/topics/influenza/pandemic/h1n1_safety_assessing/narcolepsy_statement/en/<br>
 "During 2009-2010 they found that the risk of narcolepsy among people aged 4-19 years old who had received pandemic influenza vaccine was nine times higher than that among those who had not been vaccinated." <br>
-Ainsi qu'en complément : https://www.rfi.fr/fr/podcasts/reportage-international/20201219-su%C3%A8de-le-pays-paie-encore-le-prix-de-la-narcolepsie?fbclid=IwAR2XfJKQYvoHjlVU8jA2Ev86yho43VwD7UEc2UWkalqoQnoHCfzFKHx6_9g
-
+Et en complément : https://www.rfi.fr/fr/podcasts/reportage-international/20201219-su%C3%A8de-le-pays-paie-encore-le-prix-de-la-narcolepsie
 
 ## Vaccin contre la grippe, est-ce que les nouveaux s'en inspirent ? 
 
