@@ -6,7 +6,7 @@
 2. Certains vaccins ont été suspendus par des Etats.
 3. Les études sur les vaccins sont toujours en cours, nous n'avons pas de recul. 
 
-## 1. Etre vacciné va nous rentre nos libertées ? En l'état, il semblerait que non. 
+## 1. Est-ce que être vacciné va nous permettre de retrouver nos libertées ?
 
 Voir la decision du conseil d'état suivante : https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2021-04-01/450956
 
@@ -27,7 +27,7 @@ Voir la decision du conseil d'état suivante : https://www.conseil-etat.fr/fr/ar
 - https://www.lejsl.com/sante/2021/03/15/la-france-annonce-la-suspension-du-vaccin-astrazeneca
 - ...
 
-## 3. On a pas de recul. Les études sur les vaccins sont toujours en cours : 
+## 3. Les études sur les vaccins sont toujours en cours, nous n'avons pas de recul. 
 
 - Actuellement les vaccins sont soumis à une Autorisation de Mise sur le Marché (AMM) <b>conditionnelle</b>.  <br>
 Voir ce qu'est une AMM conditionnelle (7 min) : https://www.youtube.com/watch?v=_Z6K3hr42Ks <br>
