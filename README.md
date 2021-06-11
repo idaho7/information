@@ -20,7 +20,7 @@ Voir la decision du conseil d'état suivante : https://www.conseil-etat.fr/fr/ar
 <b>Pour aller plus loin : </b><br>
 - Interview de l'avocate Me Clarisse Sand qui a déposée la requête ( 17 min ) : https://www.youtube.com/watch?v=_q2qqw_ScPk
 
-## 2. Certains vaccins on été suspendu par des états, c'est à savoir. 
+## 2. Certains vaccins ont été suspendus par des Etats, c'est à savoir. 
 
 - https://www.francebleu.fr/infos/societe/suspension-de-vaccin-janssen-20-000-doses-ont-ete-commandees-en-bretagne-1618427860
 - https://www.futura-sciences.com/sante/actualites/coronavirus-suspension-vaccin-johnson-johnson-etats-unis-enquetent-apparition-cas-graves-86789/
