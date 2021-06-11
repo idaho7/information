@@ -16,9 +16,11 @@ Le cadre conditionnel est le suivant :
 <br>
 
 __A noter :__ <br>
-Les vaccins pour la grippe H1N1 ont aussi était [élaborés en urgence](https://www.rfi.fr/fr/podcasts/reportage-international/20201219-su%C3%A8de-le-pays-paie-encore-le-prix-de-la-narcolepsie). Cependant le procédé de fabrication est le même que celui de la grippe (donc connu voir la question suivante).
+- Les vaccins pour la grippe H1N1 ont aussi était [élaborés en urgence](https://www.rfi.fr/fr/podcasts/reportage-international/20201219-su%C3%A8de-le-pays-paie-encore-le-prix-de-la-narcolepsie). Cependant le procédé de fabrication est le même que celui de la grippe (donc connu voir la question suivante).
+- Le centre de contrôle des maladies des Etats Unis indique : https://www.cdc.gov/vaccinesafety/ensuringsafety/history/index.html <br>
+"L'homologation des vaccins est un processus long qui peut prendre 10 ans ou plus. La FDA exige que les vaccins subissent trois phases d'essais cliniques sur des sujets humains avant d'être autorisés à être utilisés par le grand public"
 
-<br>Sachant qu'après le vaccin H1N1 il y a eu des cas de [Narcolepsie](https://fr.wikipedia.org/wiki/Narcolepsie) 9 fois plus élevées chez les 4-19 ans vaccinées que chez les non vaccinés. <br>Voir (Source OMS): https://www.who.int/vaccine_safety/committee/topics/influenza/pandemic/h1n1_safety_assessing/narcolepsy_statement/en/<br>
+Sachant qu'après le vaccin H1N1 il y a eu des cas de [Narcolepsie](https://fr.wikipedia.org/wiki/Narcolepsie) 9 fois plus élevées chez les 4-19 ans vaccinées que chez les non vaccinés. <br>Voir (Source OMS): https://www.who.int/vaccine_safety/committee/topics/influenza/pandemic/h1n1_safety_assessing/narcolepsy_statement/en/<br>
 "During 2009-2010 they found that the risk of narcolepsy among people aged 4-19 years old who had received pandemic influenza vaccine was nine times higher than that among those who had not been vaccinated." <br>
 Et en complément : https://www.rfi.fr/fr/podcasts/reportage-international/20201219-su%C3%A8de-le-pays-paie-encore-le-prix-de-la-narcolepsie
 
@@ -49,7 +51,7 @@ Ce qui n'a rien n'a là aussi rien à voir avec un virus inactivé utilisé habi
 Bonne question, en tout cas, factuellement, sur la pilule on a des années de reculs sur les effets indésirables, même s'ils sont lents à déterminer. 
 
 ### Effet secondaires ? 
-<br>Les nouveaux vaccins il y a seulement quelques mois de recul. <br> Sachant que : <br>
+<br>Il y a seulement quelques mois de recul. <br> Sachant que : <br>
 - la responsabilité des effets secondaires (effets collatéraux, dédommagement etc.) risque d'être attribué aux états et non à l'industrie, [comme pour H1N1](https://www.liberation.fr/france/2020/11/24/effets-secondaires-du-vaccin-h1n1-les-indemnisations-trainent_1806453/). L'état aura en toute logique aucun interet à les chercher sachant que c'est lui qui va payer, il y aura là un conflit d'intéret direct. 
 Voir l'interview de cette députée européene (2020, 12min) : https://www.youtube.com/watch?v=FzYyoP6xBvU <br>
 - la transparance sur les contrats signés avec les industriels n'est pas totale. <br>
@@ -57,6 +59,11 @@ Cette interview (même députée) est plus récente mais dure 1h : https://www.y
 - les Labo ont tous déjà été condamnés à des amendes de plusieurs millions : 
    - https://www.lemonde.fr/economie/article/2009/09/02/une-amende-de-2-3-milliards-de-dollars-pour-pfizer_1235011_3234.html 
    - https://violationtracker.goodjobsfirst.org/prog.php?agency_sum=FDA
+
+_Voir les rapports hébdomadaires de l'ANSM, ou les effets secondaires sont répertoiriés :_
+<br>https://ansm.sante.fr/uploads/2021/06/04/20210604-covid-19-vaccins-rapport-hebdomadaire-16-pfizer.pdf
+<br>https://ansm.sante.fr/uploads/2021/06/04/20210604-covid-19-vaccins-rapport-hebdomadaire-13-moderna.pdf
+<br>https://ansm.sante.fr/uploads/2021/05/28/20210528-covid-19-vaccins-astrazeneca-rapport-12-07-05-2021-20-05-2021-2.pdf
 
 ### Fertilité ? il est indiqué : 
 - Pfizer, dans le rapport d'évaluation public (public assessment report) ici : https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf il est indiqué que dans l'étude faite sur les rats (Voir page 55 et 56): <br>
