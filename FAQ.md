@@ -46,7 +46,7 @@ Fiche produit : https://www.ema.europa.eu/en/documents/product-information/vaxze
 "Une dose (0,5ml) contient:<br>Adénovirus de chimpanzé codant pour la glycoprotéine Spike du SARS-CoV-2 (ChAdOx1-S)*, non inférieur à 2,5 x 108unités infectieuses <br>* Produit sur des cellules rénales embryonnaires humaines (human embryonic kidney, HEK)293 génétiquement modifiées et par la technologie de l’ADN recombinant.<br>Ce produit contient des organismes génétiquement modifiés (OGM)."<br>
 Ce qui n'a rien n'a là aussi rien à voir avec un virus inactivé utilisé habituellement dans celui de la grippe.
 
-Pour avoir une vision complète (30min, plus technique) : https://www.youtube.com/watch?v=SMBQ3IpqOho
+Pour avoir une vision complète (30min) : https://www.youtube.com/watch?v=SMBQ3IpqOho
 
 ## Est-ce que la pilule ca n'est pas pire ? 
 
