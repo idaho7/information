@@ -18,7 +18,7 @@ Voir la decision du conseil d'état suivante : https://www.conseil-etat.fr/fr/ar
 - "l'atteinte à la liberté individuelle résultant des mesures de couvre-feu et de confinement ne peut, en l'état, au regard des objectifs poursuivis, être regardée comme disproportionnée, en tant qu'elles s'appliquent aux personnes vaccinées"
 <br>
 <b>Pour aller plus loin : </b><br>
-- Interview de l'avocate Me Clarisse Sand qui a déposée la requête ( 17 min ) : https://www.youtube.com/watch?v=_q2qqw_ScPk
+- Interview de l'avocate Me Clarisse Sand qui a déposée la requête ( 17 min ) : https://www.youtube.com/watch?v=_q2qqw_ScPk<br>
 - L'OMS pousse au port du masque, même chez les vaccinés, à cause du nouveau variant : https://www.cnbc.com/amp/2021/06/25/delta-who-urges-fully-vaccinated-people-to-continue-to-wear-masks-as-variant-spreads.html
 
 ## 2. Certains vaccins ont été suspendus par des Etats, c'est à savoir. 
