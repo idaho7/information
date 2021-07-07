@@ -19,7 +19,8 @@ Voir la decision du conseil d'état suivante : https://www.conseil-etat.fr/fr/ar
 <br>
 <b>Pour aller plus loin : </b><br>
 - Interview de l'avocate Me Clarisse Sand qui a déposée la requête ( 17 min ) : https://www.youtube.com/watch?v=_q2qqw_ScPk<br>
-- L'OMS pousse au port du masque, même chez les vaccinés, à cause du nouveau variant : https://www.cnbc.com/amp/2021/06/25/delta-who-urges-fully-vaccinated-people-to-continue-to-wear-masks-as-variant-spreads.html
+- L'OMS pousse au port du masque, même chez les vaccinés, à cause du nouveau variant : https://www.cnbc.com/amp/2021/06/25/delta-who-urges-fully-vaccinated-people-to-continue-to-wear-masks-as-variant-spreads.html<br>
+- A Londre dans l'aéroport des tests sont effectués plus rapidement pour les personnes vaccinées : https://francais.rt.com/international/88552-covid-19-aeroport-londres-teste-file-plus-rapide-pour-passagers-vaccines
 
 ## 2. Certains vaccins ont été suspendus par des Etats, c'est à savoir. 
 
