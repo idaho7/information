@@ -53,7 +53,7 @@ Page 20 : "En vue de confirmer l’efficacité et la sécurité [...] devra soum
 
 <b>Pour aller plus loin :</b> <br>
 
-List des rapports de pharamcovigilance de l'ANSM : <br>
+Liste des rapports de pharamacovigilance de l'ANSM : <br>
 https://ansm.sante.fr/dossiers-thematiques/covid-19-suivi-hebdomadaire-des-cas-deffets-indesirables-des-vaccins<br>
 
 Sur le Pfizer : https://www.youtube.com/watch?v=OjjEU-wjF7s (8 min) : <br>
