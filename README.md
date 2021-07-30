@@ -52,6 +52,10 @@ Page 16 : <br>
 Page 20 : "En vue de confirmer l’efficacité et la sécurité [...] devra soumettre le rapport final d’étude clinique pour l’étude randomisée, contrôlée contre placebo" <b>=> En Décembre 2023</b><br><br>
 
 <b>Pour aller plus loin :</b> <br>
+
+List des rapports de pharamcovigilance de l'ANSM : <br>
+https://ansm.sante.fr/dossiers-thematiques/covid-19-suivi-hebdomadaire-des-cas-deffets-indesirables-des-vaccins<br>
+
 Sur le Pfizer : https://www.youtube.com/watch?v=OjjEU-wjF7s (8 min) : <br>
 Basé sur le document de l'Agence Européene du médicament suivant : https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf
 
