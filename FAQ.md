@@ -83,3 +83,22 @@ _Voir les rapports hébdomadaires de l'ANSM, ou les effets secondaires sont rép
   - Etude TOX14389 "Il n'y a pas eu d'effets indésirables du traitement sur la survie, les observations cliniques, le poids corporel, la variation du poids corporel, la consommation alimentaire, les performances de reproduction, la fertilité, les examens ovariens et utérins, la parturition ou les évaluations macroscopiques chez les femelles parentales."
 
 _Note : Tout a été Traduit avec www.DeepL.com/Translator (version gratuite)_
+
+
+### Risque du Covid sur les femmes enceintes : 
+
+Voir le 2ieme paragraphe de cet article : <br>
+https://www.aimsib.org/2021/05/09/vacciner-les-femmes-enceintes-contre-la-covid-19/<br>
+Il est indiqué que ce sont "les facteurs de risque qui entraînent la sévérité de l’infection Covid et non le fait d’être enceinte". <br><br>
+Il se basent sur la méta analyse suivante : https://www.bmj.com/content/370/bmj.m3320 qui concluent : <br>
+- "Les femmes enceintes et récemment enceintes atteintes de covid-19 qui consultent ou sont admises à l'hôpital pour quelque raison que ce soit sont moins susceptibles de présenter des symptômes tels que fièvre, dyspnée et myalgie"
+- "Les comorbidités préexistantes, l'origine ethnique non blanche, l'hypertension chronique, le diabète préexistant, l'âge maternel élevé et l'indice de masse corporelle élevé sont des facteurs de risque de covid-19 grave pendant la grossesse." 
+- "Les femmes enceintes atteintes de covid-19 par rapport à celles qui n'en sont pas atteintes sont plus susceptibles d'accoucher prématurément"
+
+Une autre revue de la litterature (plus complète) a été faite ici : <br>
+https://odysee.com/@ColCovMed-Reunion:9/CSI-N%C2%B0-08---H%C3%A9l%C3%A8ne-Banoun-Femmes-enceintes-et-injections-ant-Covid-19-:f?
+
+
+
+
+
