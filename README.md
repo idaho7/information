@@ -62,3 +62,7 @@ Basé sur le document de l'Agence Européene du médicament suivant : https://ww
 Questions sur la fertilité (8 min) : https://www.youtube.com/watch?v=pm1bSgMJfXw <br>
 Basé sur les documents de l'Agence Européene du médicament mentionnés précédement par marques <br>
 
+Le CDC (institut officiel américain de surveillance des maladies) a investigué un cluster de cas à Barnstable County dans le Massachusetts : <br>
+Source : https://www.cdc.gov/mmwr/volumes/70/wr/pdfs/mm7031e2-H.pdf <br>
+Analyse : https://reinfocovid.fr/science/les-vaccines-infectes-seraient-aussi-contagieux-que-les-autres/<br>
+
