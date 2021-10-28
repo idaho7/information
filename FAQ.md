@@ -100,5 +100,13 @@ https://odysee.com/@ColCovMed-Reunion:9/CSI-N%C2%B0-08---H%C3%A9l%C3%A8ne-Banoun
 
 
 
+### Base de donnée europeene de remontée d'effet secondaire eudra vigilance : 
+
+MODERNA : https://dap.ema.europa.eu/analytics/saw.dll?PortalPages&PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&Action=Navigate&P0=1&P1=eq&P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&P3=1+40983312
+PFIZER : 
+https://dap.ema.europa.eu/analytics/saw.dll?PortalPages&PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&Action=Navigate&P0=1&P1=eq&P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&P3=1+42325700
+JOHNSON : https://dap.ema.europa.eu/analyticsSOAP/saw.dll?PortalPages&PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&Action=Navigate&P0=1&P1=eq&P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&P3=1+42287887
+AZTRAZENECA : https://dap.ema.europa.eu/analytics/saw.dll?PortalPages&PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&Action=Navigate&P0=1&P1=eq&P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&P3=1+40995439
+
 
 
