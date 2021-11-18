@@ -111,3 +111,12 @@ AZTRAZENECA : https://dap.ema.europa.eu/analytics/saw.dll?PortalPages&PortalPath
 ### Statistique de l'institut de Données statistiques publiques en santé et social (DRESS)
 
 https://data.drees.solidarites-sante.gouv.fr/explore/dataset/covid-19-resultats-regionaux-issus-des-appariements-entre-si-vic-si-dep-et-vac-s/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImNvdmlkLTE5LXJlc3VsdGF0cy1yZWdpb25hdXgtaXNzdXMtZGVzLWFwcGFyaWVtZW50cy1lbnRyZS1zaS12aWMtc2ktZGVwLWV0LXZhYy1zIiwib3B0aW9ucyI6e319LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoiaGMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1jdXN0b20ifV0sInhBeGlzIjoiZGF0ZSIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6ImRheSIsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiJ2YWNfc3RhdHV0In1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJzaW5nbGVBeGlzIjp0cnVlfQ%3D%3D
+
+### Cluster de vacciné : 
+
+- https://france3-regions.francetvinfo.fr/corse/haute-corse/corte/covid-un-cluster-durant-un-stage-de-yoga-a-venaco-2327197.html
+- https://www.20minutes.fr/bordeaux/3165583-20211105-coronavirus-bordeaux-cluster-16-soignants-detecte-sein-hopital-saint-andre
+- https://www.ouest-france.fr/pays-de-la-loire/doix-les-fontaines-85200/covid-19-cluster-a-doix-les-fontaines-un-schema-vaccinal-complet-aa1701ce-3023-11ec-b653-4cec8da29c4d
+- https://www.ladepeche.fr/2021/09/16/toulouse-un-cluster-de-51-cas-de-covid-dans-une-maison-de-retraite-9794267.php
+
+
