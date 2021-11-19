@@ -63,7 +63,8 @@ Cette interview (même députée) est plus récente mais dure 1h : https://www.y
    - https://violationtracker.goodjobsfirst.org/prog.php?agency_sum=FDA
 
 _Voir les rapports hébdomadaires de l'ANSM, ou les effets secondaires sont répertoiriés :_
-<br>https://ansm.sante.fr/uploads/2021/06/04/20210604-covid-19-vaccins-rapport-hebdomadaire-16-pfizer.pdf
+<br>https://ansm.sante.fr/uploads/2021/11/19/20211119-covid-19-vaccins-fiche-synthese-29-10-2021-11-11-2021.pdf
+- Les troubles menstruels font partis des effets indésirables signalés. 
 <br>https://ansm.sante.fr/uploads/2021/06/04/20210604-covid-19-vaccins-rapport-hebdomadaire-13-moderna.pdf
 <br>https://ansm.sante.fr/uploads/2021/05/28/20210528-covid-19-vaccins-astrazeneca-rapport-12-07-05-2021-20-05-2021-2.pdf
 
@@ -84,7 +85,6 @@ _Voir les rapports hébdomadaires de l'ANSM, ou les effets secondaires sont rép
 
 _Note : Tout a été Traduit avec www.DeepL.com/Translator (version gratuite)_
 
-
 ### Risque du Covid sur les femmes enceintes : 
 
 Voir le 2ieme paragraphe de cet article : <br>
@@ -98,7 +98,9 @@ Il se basent sur la méta analyse suivante : https://www.bmj.com/content/370/bmj
 Une autre revue de la litterature (plus complète) a été faite ici : <br>
 https://odysee.com/@ColCovMed-Reunion:9/CSI-N%C2%B0-08---H%C3%A9l%C3%A8ne-Banoun-Femmes-enceintes-et-injections-ant-Covid-19-:f?
 
-
+- Why COVID-19 vaccines might affect fertility (article)
+https://cienciaysaludnatural.com/estudio/why-covid-19-vaccines-might-affect-fertility/
+- https://childrenshealthdefense.eu/eu-issues/covid-19-injections-dangerous-for-mothers-and-babies-building-up-in-ovaries-and-attacking-the-placenta-according-to-former-chief-scientist-of-pfizer-rd/
 
 ### Base de donnée europeene de remontée d'effet secondaire eudra vigilance : 
 
