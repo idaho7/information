@@ -121,4 +121,6 @@ https://data.drees.solidarites-sante.gouv.fr/explore/dataset/covid-19-resultats-
 - https://www.ouest-france.fr/pays-de-la-loire/doix-les-fontaines-85200/covid-19-cluster-a-doix-les-fontaines-un-schema-vaccinal-complet-aa1701ce-3023-11ec-b653-4cec8da29c4d
 - https://www.ladepeche.fr/2021/09/16/toulouse-un-cluster-de-51-cas-de-covid-dans-une-maison-de-retraite-9794267.php
 
+### Il y a t'il plus de vacciné que que non vacciné hospitalisé ?
 
+- https://data.drees.solidarites-sante.gouv.fr/explore/dataset/covid-19-resultats-issus-des-appariements-entre-si-vic-si-dep-et-vac-si/analyze/?disjunctive.vac_statut&refine.date=2021&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImNvdmlkLTE5LXJlc3VsdGF0cy1pc3N1cy1kZXMtYXBwYXJpZW1lbnRzLWVudHJlLXNpLXZpYy1zaS1kZXAtZXQtdmFjLXNpIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS52YWNfc3RhdHV0Ijp0cnVlLCJyZWZpbmUuZGF0ZSI6IjIwMjEifX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJoYyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwieEF4aXMiOiJkYXRlIiwibWF4cG9pbnRzIjpudWxsLCJ0aW1lc2NhbGUiOiJkYXkiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoidmFjX3N0YXR1dCJ9XSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D
