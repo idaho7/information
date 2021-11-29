@@ -123,4 +123,10 @@ https://data.drees.solidarites-sante.gouv.fr/explore/dataset/covid-19-resultats-
 
 ### Il y a t'il plus de vacciné que que non vacciné hospitalisé ?
 
-- https://data.drees.solidarites-sante.gouv.fr/explore/dataset/covid-19-resultats-issus-des-appariements-entre-si-vic-si-dep-et-vac-si/analyze/?disjunctive.vac_statut&refine.date=2021&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImNvdmlkLTE5LXJlc3VsdGF0cy1pc3N1cy1kZXMtYXBwYXJpZW1lbnRzLWVudHJlLXNpLXZpYy1zaS1kZXAtZXQtdmFjLXNpIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS52YWNfc3RhdHV0Ijp0cnVlLCJyZWZpbmUuZGF0ZSI6IjIwMjEifX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJoYyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwieEF4aXMiOiJkYXRlIiwibWF4cG9pbnRzIjpudWxsLCJ0aW1lc2NhbGUiOiJkYXkiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoidmFjX3N0YXR1dCJ9XSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D
+- https://data.drees.solidarites-sante.gouv.fr/explore/dataset/covid-19-resultats-regionaux-issus-des-appariements-entre-si-vic-si-dep-et-vac-s/analyze/?fbclid=IwAR3TOIB-E8E1zvcMjG6Q8aj4xamP96ky4eDT_7uGf35G9EEeOzGskl3IgeA&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImNvdmlkLTE5LXJlc3VsdGF0cy1yZWdpb25hdXgtaXNzdXMtZGVzLWFwcGFyaWVtZW50cy1lbnRyZS1zaS12aWMtc2ktZGVwLWV0LXZhYy1zIiwib3B0aW9ucyI6eyJmYmNsaWQiOiJJd0FSM1RPSUItRThFMXp2Y01qRzZROGFqNHhhbVA5Nmt5NGVEVF83dUdmMzVHOUVFZU96R3NrbDNJZ2VBIn19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoiaGMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1jdXN0b20ifV0sInhBeGlzIjoiZGF0ZSIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6ImRheSIsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiJ2YWNfc3RhdHV0Iiwic3RhY2tlZCI6IiJ9XSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZSwic2luZ2xlQXhpcyI6dHJ1ZX0%3D
+
+#### Sportifs problèmes vaccins :
+- https://www.ski-nordique.net/encore-un-jeune-sportif-assomme-par-le-vaccin.6421343-72348.html
+- https://www.lci.fr/sport/covid-tennis-depuis-que-j-ai-eu-mon-vaccin-j-enchaine-les-galeres-jeremy-chardy-fait-une-pause-2197141.html#:~:text=VACCIN%20%2D%20%C3%80%20plat%20physiquement%20depuis,savoir%20quand%20il%20pourra%20reprendre.&text=%22Je%20regrette%20d'avoir%20fait%20le%20vaccin.%22
+- 
+
