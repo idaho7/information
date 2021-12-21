@@ -134,5 +134,5 @@ En decembre 2021 :
 #### Sportifs problèmes vaccins :
 - https://www.ski-nordique.net/encore-un-jeune-sportif-assomme-par-le-vaccin.6421343-72348.html
 - https://www.lci.fr/sport/covid-tennis-depuis-que-j-ai-eu-mon-vaccin-j-enchaine-les-galeres-jeremy-chardy-fait-une-pause-2197141.html#:~:text=VACCIN%20%2D%20%C3%80%20plat%20physiquement%20depuis,savoir%20quand%20il%20pourra%20reprendre.&text=%22Je%20regrette%20d'avoir%20fait%20le%20vaccin.%22
-- 
+- https://francais.rt.com/france/91011-tennis-francais-jeremy-chardy-suspend-apres-reaction-contre-vaccin-contre-covid
 
