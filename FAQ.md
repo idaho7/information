@@ -68,6 +68,10 @@ _Voir les rapports hébdomadaires de l'ANSM, ou les effets secondaires sont rép
 <br>https://ansm.sante.fr/uploads/2021/06/04/20210604-covid-19-vaccins-rapport-hebdomadaire-13-moderna.pdf
 <br>https://ansm.sante.fr/uploads/2021/05/28/20210528-covid-19-vaccins-astrazeneca-rapport-12-07-05-2021-20-05-2021-2.pdf
 
+- Video de la Directrice de l'ANSM au Sénat + résumé dans l'article : 
+https://www.publicsenat.fr/article/parlementaire/effets-indesirables-de-la-vaccination-contre-le-covid-19-les-chiffres-de-l
+"L’ANSM fait état de plus de 110.000 déclarations répertoriées d’effets indésirables sur les vaccins contre le covid-19. « C’est plus du double par rapport à une année hors crise, où l’on est généralement à 45.000 déclarations tous médicaments confondus », note Christelle Ratignier-Carbonneil."
+
 ### Fertilité ? il est indiqué : 
 - Pfizer, dans le rapport d'évaluation public (public assessment report) ici : https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf il est indiqué que dans l'étude faite sur les rats (Voir page 55 et 56): <br>
   - "Les études de distribution pharmacocinétique chez le rat ont démontré qu'une proportion relativement importante - seconde par rapport aux niveaux au site d'injection - de la dose totale se distribue dans le foie (jusqu'à 18%, et bien plus que les niveaux observés dans la rate [<1,1%], les glandes surrénales [<0,1%] et les ovaires [<0,1%])."
